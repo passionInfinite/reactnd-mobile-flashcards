@@ -30,7 +30,7 @@ For this you will need expo account, register on [Expo](https:expo.io)
 
 **Step 6:**
 If you want to skip the **Step 5** then you can directly download apk from the following link:
-[FlashCards APK]()
+[FlashCards APK](https://exp.host/@passioninfinite1795/FlashCards)
 
 # NOTE
 > This project is **tested only on Android**
