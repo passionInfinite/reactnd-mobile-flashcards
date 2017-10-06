@@ -1,0 +1,8 @@
+const ACTIONS = {
+  ADD_CARD: 'ADD_CARD',
+  REMOVE_CARD: 'REMOVE_CARD',
+  ADD_DECK: 'ADD_DECK',
+  GET_DECKS: 'GET_DECKS'
+}
+
+export default ACTIONS
