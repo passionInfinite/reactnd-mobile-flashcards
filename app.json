@@ -1,5 +1,20 @@
 {
   "expo": {
-    "sdkVersion": "21.0.0"
+    "sdkVersion": "21.0.0",
+    "orientation": "portrait",
+    "name": "FlashCards",
+    "description": "The best FlashCard app in the world.",
+    "slug": "FlashCards",
+    "version": "1.0",
+    "icon": "https://goo.gl/bHhptL",
+    "notification": {
+      "icon": "https://goo.gl/bHhptL"
+    },
+    "ios": {
+      "bundleIdentifier": "org.flashcards.exp"
+    },
+    "android": {
+      "package": "org.flashcards.exp"
+    }
   }
 }
